@@ -7,3 +7,5 @@
 ## Notebooks Jupyter (.ipynb)
 
 ## Estrutura do Curso
+
+## Referências
