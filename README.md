@@ -1,2 +1,9 @@
-# Python-Course-UFC
-Curso introdutório à linguagem Python especialmente desenvolvido para alunos de graduação em Física da Universidade Federal do Ceará (UFC).
+# Uma Introdução à Programação em Python
+
+## O que é Python e por que aprender esta linguagem?
+
+## Ambientes de Desenvolvimento Integrado (IDEs)
+
+## Notebooks Jupyter (.ipynb)
+
+## Estrutura do Curso
