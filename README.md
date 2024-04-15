@@ -38,7 +38,7 @@ Claro! Aqui estão os links para as logos das IDEs mencionadas:
 
 O [**Google Colaboratory**](https://colab.research.google.com/) — também conhecido como **Google Colab** —, utilizado nas nossas aulas, não é uma IDE no sentido tradicional. Em vez disso, é uma plataforma de notebook baseada na nuvem que permite escrever e executar código Python de forma interativa. Essa ferramenta oferece um ambiente bastante semelhante ao do Jupyter Notebook com a praticidade de não necessitar configurações — *já que funciona inteiramente online*. Por isso, os códigos criados em ambos são chamados de notebooks e são estruturados como um conjunto de células. As células de um notebook podem conter texto explicativo ou código executável, e é possível rodar o código de uma célula separadamente ou todas as células de uma só vez. O resultado gerado pela execução é apresentado logo abaixo da célula correspondente, o que torna o estudo ainda mais objetivo e didático.
 
-## Notebooks Jupyter (.ipynb) :notebook_with_decorative_cover
+## Notebooks Jupyter (.ipynb) :notebook_with_decorative_cover:
 
 Os notebooks Jupyter (.ipynb) são uma ferramenta incrivelmente versátil para desenvolvimento interativo em Python e outras linguagens. Eles integram células de código executável com texto formatado em **Markdown**, uma linguagem de marcação simples (similar ao LaTeX, mas mais acessível). Essa combinação os torna ideais para uma variedade de tarefas, desde exploração de dados a apresentações interativas. Se você está começando com Markdown e quer um guia rápido de formatação, confira [aqui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -62,19 +62,19 @@ Mas aqui está uma seleção do meu top 5:
 
 Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos os aspectos que o Python oferece, mesmo nos níveis básicos! Por isso, encare nosso curso como uma introdução à linguagem Python para **físicos apressados**. O que é crucial aprender imediatamente? O que é necessário para, por exemplo, resolver problemas e criar gráficos conforme exigido em relatórios de experimentos de Física? Essas perguntas guiaram a criação da estrutura do curso que se segue:
 
-- **01 - Python como uma calculadora básica**
+- **01 - Python como uma calculadora básica** > [Notebook Aula01](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula01.ipynb)
    - Exemplo de Python como uma calculadora básica
    - Expressões
        - Operadores
        - Variáveis
 
-- **02 - Python como uma calculadora científica**
+- **02 - Python como uma calculadora científica** > [Notebook Aula02](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula02.ipynb)
    - Exemplos de Python como uma calculadora científica
    - Funções
        - Importando módulos
        - Escrevendo e usando suas próprias funções
 
-- **03 - Gráficos de Linha e Dispersão Parte I**
+- **03 - Gráficos de Linha e Dispersão Parte I** > [Notebook Aula03](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula03.ipynb)
    - Exemplo de criação de gráficos de linha e dispersão
    - Introdução a listas e tuplas
        - Listas
@@ -87,7 +87,7 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
    - Introdução aos comentários
        - Docstrings
 
-- **04 - Gráficos de Linha e Dispersão Parte II**
+- **04 - Gráficos de Linha e Dispersão Parte II** > [Notebook Aula04](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula04.ipynb)
    - Exemplo de personalização de gráficos de linha
    - Personalizando a aparência do gráfico
        - Ajustando o tamanho do gráfico
@@ -97,7 +97,7 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
    - Introdução a cálculos com arrays
    - Conceito de tipagem
 
-- **05 - Preparação Preliminar para Análise de Dados Parte I**
+- **05 - Preparação Preliminar para Análise de Dados Parte I** > [Notebook Aula05](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula05.ipynb)
    - Introdução aos nossos dados
        - Uma pequena parada: range
    - Mais sobre criação de arrays
@@ -112,7 +112,7 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
        - Declaração if-elif
        - Aninhando sentenças if e if-else
 
-- **06 - Preparação Preliminar para Análise de Dados Parte II**
+- **06 - Preparação Preliminar para Análise de Dados Parte II** > [Notebook Aula06](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula06.ipynb)
    - Arrays bidimensionais
        - Criação arrays 2D e visualizando sua dimensão
        - Acessando e fatiando um array 2D
@@ -120,7 +120,7 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
        - Laços de repetição aninhados
    - Números aleatórios
 
-- **07 - Análise e Manipulação de Dados com Pandas**
+- **07 - Análise e Manipulação de Dados com Pandas**  > [Notebook Aula07](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula07.ipynb)
    - Lendo dados de arquivos usando pandas
    - Estrutura de dados: séries e dataframe
        - Série
