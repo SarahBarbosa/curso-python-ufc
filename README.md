@@ -24,8 +24,6 @@ Existem muitos IDEs disponíveis para trabalhar com Python. Os critérios para e
 
 Algumas das IDEs mais famosas para Python incluem:
 
-Claro! Aqui estão os links para as logos das IDEs mencionadas:
-
 1. [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pt-br/pycharm/) Desenvolvido pela JetBrains, o PyCharm é uma das IDEs mais populares para Python, oferecendo uma ampla gama de recursos para desenvolvimento Python e suporte a frameworks populares como Django, Flask, e mais.
 
 2. [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) Embora seja uma editor de código-fonte mais geral, o VS Code possui uma grande quantidade de extensões Python.
