@@ -46,7 +46,7 @@ Muitos momentos durante nossas aulas vou usar **atalhos do teclado** que economi
   <img src="https://imgur.com/XQ9Dq8L.png" width="600">
 </p>
 
-Mas aqui está uma seleção do meu top 5:
+Mas aqui está alguns que mais uso:
 
 - Compilar e criar uma célula abaixo: `Alt + Enter`
 - Compilar a célula: `Ctrl + Enter`
