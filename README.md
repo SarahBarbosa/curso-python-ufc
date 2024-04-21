@@ -63,67 +63,37 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
 - **01 - Python como uma calculadora básica** > [Notebook Aula01](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula01.ipynb)
    - Exemplo de Python como uma calculadora básica
    - Expressões
-       - Operadores
-       - Variáveis
 
 - **02 - Python como uma calculadora científica** > [Notebook Aula02](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula02.ipynb)
    - Exemplos de Python como uma calculadora científica
    - Funções
-       - Importando módulos
-       - Escrevendo e usando suas próprias funções
-
 - **03 - Gráficos de Linha e Dispersão Parte I** > [Notebook Aula03](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula03.ipynb)
    - Exemplo de criação de gráficos de linha e dispersão
    - Introdução a listas e tuplas
-       - Listas
-           - Fatia de uma lista
-           - Manipulação de listas
-       - Tuplas
    - Introdução a strings
-       - F-strings
-       - Manipulação de strings
    - Introdução aos comentários
-       - Docstrings
 
 - **04 - Gráficos de Linha e Dispersão Parte II** > [Notebook Aula04](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula04.ipynb)
    - Exemplo de personalização de gráficos de linha
    - Personalizando a aparência do gráfico
-       - Ajustando o tamanho do gráfico
    - Lidando com múltiplas figuras
-       - Criando gráficos separados (lado a lado)
-       - Superposição de vários gráficos e adicionando legendas
    - Introdução a cálculos com arrays
    - Conceito de tipagem
 
 - **05 - Preparação Preliminar para Análise de Dados Parte I** > [Notebook Aula05](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula05.ipynb)
    - Introdução aos nossos dados
-       - Uma pequena parada: range
    - Mais sobre criação de arrays
    - Mais sobre funções com arrays
    - Introdução aos loops
-       - For
-       - While
    - Introdução a estrutura condicional
-       - Booleanos
-       - Declaração if
-       - Declaração if-else
-       - Declaração if-elif
-       - Aninhando sentenças if e if-else
 
 - **06 - Preparação Preliminar para Análise de Dados Parte II** > [Notebook Aula06](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula06.ipynb)
    - Arrays bidimensionais
-       - Criação arrays 2D e visualizando sua dimensão
-       - Acessando e fatiando um array 2D
-       - Cálculos com arrays 2D
-       - Laços de repetição aninhados
    - Números aleatórios
 
 - **07 - Análise e Manipulação de Dados com Pandas**  > [Notebook Aula07](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula07.ipynb)
    - Lendo dados de arquivos usando pandas
    - Estrutura de dados: séries e dataframe
-       - Série
-       - DataFrame
-       - Criando um DataFrame
    - Extraindo informação de um DataFrame
    - Plotando com pandas
 
@@ -157,3 +127,22 @@ Para aqueles que desejam aprofundar seus conhecimentos em Python, compilamos uma
 - [Python Tutorial (em inglês mas pode traduzir a página)](https://www.w3schools.com/python/default.asp)
 
 Este último trata de um tutorial para aquelas pessoas que não gostam de estudar por vídeo aula, e também eles contêm cursos de numpy, matplotlib e sklearn.
+
+## Referências
+
+O livro principal usado como base para este curso foi:
+
+* LIN, Johnny Wei-Bing et al. **An introduction to Python programming for scientists and engineers**. Cambridge University Press, 2022.
+
+Os seguintes livros foram consultados e partes deles foram utilizadas como referência adicional:
+
+* PINE, David J. **Introduction to Python for science and engineering**. CRC press, 2019.
+
+* HILL, Christian. **Learning scientific programming with Python**. Cambridge University Press, 2020.
+
+* MORUZZI, Giovanni. **Essential Python for the physicist**. Cham: Springer International Publishing, 2020.
+
+* LINGE, Svein; LANGTANGEN, Hans Petter. **Programming for computations-Python: A gentle introduction to numerical simulations with Python 3.6**. Springer Nature, 2020.
+
+
+
