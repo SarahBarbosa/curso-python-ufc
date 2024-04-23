@@ -4,7 +4,7 @@
 
 ## O que é Python e por que aprender esta linguagem? :snake:
 
-[Python](https://pt.wikipedia.org/wiki/Python), uma linguagem de [programação de alto nível](https://en.wikipedia.org/wiki/High-level_programming_language), é universalmente aceita e notavelmente fácil de aprender, ler e escrever. Foi em 1991 que [Guido van Rossum](https://pt.wikipedia.org/wiki/Guido_van_Rossum) lançou o código-fonte do Python pela primeira vez, e desde então, a linguagem se estabeleceu como uma das mais populares globalmente.
+[Python](https://pt.wikipedia.org/wiki/Python), uma linguagem de [programação de alto nível](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o#Quanto_ao_grau_de_abstra%C3%A7%C3%A3o), é universalmente aceita e notavelmente fácil de aprender, ler e escrever. Foi em 1991 que [Guido van Rossum](https://pt.wikipedia.org/wiki/Guido_van_Rossum) lançou o código-fonte do Python pela primeira vez, e desde então, a linguagem se estabeleceu como uma das mais populares globalmente.
 
 A linguagem Python é dotada de várias características que a tornam uma escolha excepcional para programadores novatos e experientes. Uma de suas principais qualidades é a **legibilidade**. O código Python é compreensível e fácil de ler, o que simplifica o processo de aprendizado e manutenção. Além disso, sua sintaxe simples e intuitiva permite que os desenvolvedores escrevam código de forma mais rápida e com menos erros.
 
@@ -97,6 +97,15 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
    - Extraindo informação de um DataFrame
    - Plotando com pandas
 
+
+| Data (2024) | Conteúdo |
+| :---------: | :-------: |
+| 27/04 | Notebooks 01 e 02 |
+| 04/05 | Notebooks 03 e 04 |
+| 11/05 | Notebooks 05 e 06 |
+| 18/05 | Notebook 07 |
+
+
 ## Entrega de exercícios :bookmark_tabs:
 
 Cada aula vem acompanhada de uma série de exercícios, todos baseados em problemas físicos. Se, por acaso, você precisar revisar algum conceito físico ou fórmula, sinta-se à vontade para consultar livros didáticos. No entanto, evite procurar soluções do código Python em si, pois isso pode prejudicar seu aprendizado. Afinal, como você aprenderia a programar se apenas copiasse e colasse soluções?
@@ -107,10 +116,10 @@ A entrega dos exercícios é **opcional** e pode ser feita por e-mail para mim: 
 
 Para aqueles que desejam aprofundar seus conhecimentos em Python, compilamos uma lista de recursos adicionais. Embora nosso curso seja introdutório e rápido, esses materiais podem lhe ajudar a revisar conceitos fundamentais e explorar tópicos mais avançados. Lembre-se de que diferentes cursos podem abordar o mesmo assunto de maneiras distintas, então sinta-se à vontade para escolher aquele que mais se adequam ao seu estilo de aprendizado e necessidades específicas.
 
-### Lógica de Programação:
+> **Lógica de Programação**
 - [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=iF2MdbrTiBM)
 
-### Bibliotecas essenciais para físicos
+> **Bibliotecas essenciais**
 
 - [NumPy](https://numpy.org/learn/)
 - [Pandas](https://pandas.pydata.org)
@@ -121,7 +130,7 @@ Para aqueles que desejam aprofundar seus conhecimentos em Python, compilamos uma
 
 **Nota:** Embora os links diretos para os sites oficiais estejam fornecidos, você pode encontrar tutoriais mais práticos e úteis em outros lugares, como no YouTube. Explore e descubra o que melhor se adapta às suas necessidades de aprendizado!
 
-### Cursos e Tutoriais de Python:
+ **Cursos e Tutoriais de Python**
 - [Learn Python - Full Course for Beginners [Tutorial] (em inglês com legenda em português)](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Python Data Analysis and Visualization Course – Astronomical Data (em inglês)](https://www.youtube.com/watch?v=H9KefzbryEw)
 - [Python Tutorial (em inglês mas pode traduzir a página)](https://www.w3schools.com/python/default.asp)
