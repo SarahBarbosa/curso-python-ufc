@@ -10,8 +10,6 @@ A linguagem Python é dotada de várias características que a tornam uma escolh
 
 A **versatilidade** é outra razão para a popularidade do Python. Ele pode ser aplicado em uma ampla variedade de tarefas, incluindo desenvolvimento web, cálculos científicos, inteligência artificial e análise de dados. A linguagem também conta com uma comunidade de desenvolvedores extensa e ativa, que contribui com a criação de diversas bibliotecas e ferramentas de código aberto.
 
-Python também é uma linguagem **interpretada**, o que significa que o código é executado diretamente pelo interpretador Python, linha por linha. Isso permite que os desenvolvedores testem e depurem seu código rapidamente, pois qualquer alteração feita no código pode ser imediatamente testada sem a necessidade de um passo de compilação. Além disso, os erros são relatados assim que ocorrem, o que pode facilitar a localização e correção de problemas.
-
 Python é uma excelente escolha para quem deseja aprender a programar. Sua simplicidade, legibilidade e versatilidade o tornam uma ótima linguagem para iniciantes, enquanto suas capacidades e comunidade ativa o tornam uma ferramenta poderosa para desenvolvedores experientes.
 
 ## Ambientes de Desenvolvimento Integrado (IDEs) :clipboard:
@@ -24,17 +22,24 @@ Existem muitos IDEs disponíveis para trabalhar com Python. Os critérios para e
 
 Algumas das IDEs mais famosas para Python incluem:
 
-1. [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pt-br/pycharm/) Desenvolvido pela JetBrains, o PyCharm é uma das IDEs mais populares para Python, oferecendo uma ampla gama de recursos para desenvolvimento Python e suporte a frameworks populares como Django, Flask, e mais.
+> [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pt-br/pycharm/) Desenvolvido pela JetBrains, o PyCharm é uma das IDEs mais populares para Python, oferecendo uma ampla gama de recursos para desenvolvimento Python e suporte a frameworks populares como Django, Flask, e mais.
 
-2. [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) Embora seja uma editor de código-fonte mais geral, o VS Code possui uma grande quantidade de extensões Python.
+> [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) Embora seja uma editor de código-fonte mais geral, o VS Code possui uma grande quantidade de extensões Python.
 
-3. [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) Embora não seja uma IDE tradicional, o Jupyter Notebook são amplamente usados para desenvolvimento, exploração e análise de dados em Python, especialmente em ambientes de ciência de dados e pesquisa.
+> [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) Embora não seja uma IDE tradicional, o Jupyter Notebook são amplamente usados para desenvolvimento, exploração e análise de dados em Python, especialmente em ambientes de ciência de dados e pesquisa.
 
-4. [![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)](https://www.spyder-ide.org/) Uma IDE projetada especificamente para cientistas e engenheiros, o Spyder é construído em torno do ecossistema científico Python, fornecendo ferramentas para análise de dados e visualização.
+> [![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)](https://www.spyder-ide.org/) Uma IDE projetada especificamente para cientistas e engenheiros, o Spyder é construído em torno do ecossistema científico Python, fornecendo ferramentas para análise de dados e visualização.
 
-5. [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/library/idle.html) IDLE é a IDE padrão que acompanha a instalação padrão do Python. Embora seja simples, oferece uma variedade de recursos básicos para edição, execução e depuração de código Python.
+> [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/library/idle.html) IDLE é a IDE padrão que acompanha a instalação padrão do Python. Embora seja simples, oferece uma variedade de recursos básicos para edição, execução e depuração de código Python.
 
-O [**Google Colaboratory**](https://colab.research.google.com/) — também conhecido como **Google Colab** —, utilizado nas nossas aulas, não é uma IDE no sentido tradicional. Em vez disso, é uma plataforma de notebook baseada na nuvem que permite escrever e executar código Python de forma interativa. Essa ferramenta oferece um ambiente bastante semelhante ao do Jupyter Notebook com a praticidade de não necessitar configurações — *já que funciona inteiramente online*. Por isso, os códigos criados em ambos são chamados de notebooks e são estruturados como um conjunto de células. As células de um notebook podem conter texto explicativo ou código executável, e é possível rodar o código de uma célula separadamente ou todas as células de uma só vez. O resultado gerado pela execução é apresentado logo abaixo da célula correspondente, o que torna o estudo ainda mais objetivo e didático.
+<div>
+<img src="https://colab.google/static/images/icons/colab.png" width="300"/>
+</div>
+
+
+O [**Google Colaboratory**](https://colab.research.google.com/) — também conhecido como **Google Colab** —, utilizado nas nossas aulas, não é uma IDE no sentido tradicional. Em vez disso, é uma plataforma de notebook baseada na nuvem que permite escrever e executar código Python de forma interativa (parecido com o Jupyter Notebook mas não precisa configurar *já que funciona inteiramente online*). 
+
+Os códigos criados em ambos são chamados de notebooks e são estruturados como um conjunto de células. As células de um notebook podem conter texto explicativo ou código executável, e é possível rodar o código de uma célula separadamente ou todas as células de uma só vez. O resultado gerado pela execução é apresentado logo abaixo da célula correspondente, o que torna o estudo ainda mais objetivo e didático.
 
 ## Notebooks Jupyter (.ipynb) :notebook_with_decorative_cover:
 
@@ -97,13 +102,14 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
    - Extraindo informação de um DataFrame
    - Plotando com pandas
 
-
 | Data (2024) | Conteúdo |
 | :---------: | :-------: |
 | 27/04 | Notebooks 01 e 02 |
 | 04/05 | Notebooks 03 e 04 |
 | 11/05 | Notebooks 05 e 06 |
 | 18/05 | Notebook 07 |
+
+**Os notebooks serão lançados um dia antes da aula!** :rocket:
 
 
 ## Entrega de exercícios :bookmark_tabs:
@@ -126,6 +132,7 @@ Para aqueles que desejam aprofundar seus conhecimentos em Python, compilamos uma
 - [Matplotlib](https://matplotlib.org)
 - [Seaborn](https://seaborn.pydata.org)
 - [Scipy](https://scipy.org)
+- [(Extra: Astrofísica) AstroPy](https://www.astropy.org/)
 - [(Extra: Machine Learning) Scikit-learn](https://scikit-learn.org/stable/)
 
 **Nota:** Embora os links diretos para os sites oficiais estejam fornecidos, você pode encontrar tutoriais mais práticos e úteis em outros lugares, como no YouTube. Explore e descubra o que melhor se adapta às suas necessidades de aprendizado!
