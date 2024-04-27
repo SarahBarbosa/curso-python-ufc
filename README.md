@@ -117,6 +117,9 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
    - Extraindo informação de um DataFrame
    - Plotando com pandas
 
+
+> Após o final das aulas, será disponibilizado um forms para fornecimento gratuito de certificado! :laughing:
+
 ## Entrega de exercícios :bookmark_tabs:
 
 Cada aula vem acompanhada de uma série de exercícios, todos baseados em problemas físicos. Se, por acaso, você precisar revisar algum conceito físico ou fórmula, sinta-se à vontade para consultar livros didáticos. No entanto, evite procurar soluções do código Python em si, pois isso pode prejudicar seu aprendizado. Afinal, como você aprenderia a programar se apenas copiasse e colasse soluções?
