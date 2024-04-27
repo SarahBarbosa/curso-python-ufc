@@ -5,11 +5,11 @@
 ## Informações importantes! :warning:
 
 * Google Meet: https://meet.google.com/qnf-djkr-foq
-* Aulas gravadas: https://www.youtube.com/channel/UC6eKYbe9QdGfHOgYW5bo6Zg
+* Aulas gravadas: https://www.youtube.com/playlist?list=PLaraM1ucy5CaRJis93ZYxrwVWbxhC7-gF
 
 | Data (2024) | Conteúdo |
 | :---------: | :-------: |
-| 27/04 | Notebooks 01 e 02 |
+| 27/04 | Notebooks 01 e 02 :white_check_mark: |
 | 04/05 | Notebooks 03 e 04 |
 | 11/05 | Notebooks 05 e 06 |
 | 18/05 | Notebook 07 |
