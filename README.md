@@ -2,6 +2,21 @@
   <img src="https://imgur.com/RJmPYJR.png">
 </p>
 
+## Informações importantes! :warning:
+
+* Google Meet: https://meet.google.com/qnf-djkr-foq
+* Aulas gravadas: https://www.youtube.com/channel/UC6eKYbe9QdGfHOgYW5bo6Zg
+
+| Data (2024) | Conteúdo |
+| :---------: | :-------: |
+| 27/04 | Notebooks 01 e 02 |
+| 04/05 | Notebooks 03 e 04 |
+| 11/05 | Notebooks 05 e 06 |
+| 18/05 | Notebook 07 |
+
+**Os notebooks serão lançados um dia antes da aula!** :rocket:
+
+
 ## O que é Python e por que aprender esta linguagem? :snake:
 
 [Python](https://pt.wikipedia.org/wiki/Python), uma linguagem de [programação de alto nível](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o#Quanto_ao_grau_de_abstra%C3%A7%C3%A3o), é universalmente aceita e notavelmente fácil de aprender, ler e escrever. Foi em 1991 que [Guido van Rossum](https://pt.wikipedia.org/wiki/Guido_van_Rossum) lançou o código-fonte do Python pela primeira vez, e desde então, a linguagem se estabeleceu como uma das mais populares globalmente.
@@ -101,16 +116,6 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
    - Estrutura de dados: séries e dataframe
    - Extraindo informação de um DataFrame
    - Plotando com pandas
-
-| Data (2024) | Conteúdo |
-| :---------: | :-------: |
-| 27/04 | Notebooks 01 e 02 |
-| 04/05 | Notebooks 03 e 04 |
-| 11/05 | Notebooks 05 e 06 |
-| 18/05 | Notebook 07 |
-
-**Os notebooks serão lançados um dia antes da aula!** :rocket:
-
 
 ## Entrega de exercícios :bookmark_tabs:
 
