@@ -10,7 +10,7 @@
 | Data (2024) | Conteúdo |
 | :---------: | :-------: |
 | 27/04 | Notebooks 01 e 02 :white_check_mark: |
-| 04/05 | Notebooks 03 e 04 |
+| 04/05 | Notebooks 03 e 04 :white_check_mark: |
 | 11/05 | Notebooks 05 e 06 |
 | 18/05 | Notebook 07 |
 
