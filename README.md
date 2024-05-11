@@ -11,7 +11,7 @@
 | :---------: | :-------: |
 | 27/04 | Notebooks 01 e 02 :white_check_mark: |
 | 04/05 | Notebooks 03 e 04 :white_check_mark: |
-| 11/05 | Notebooks 05 e 06 |
+| 11/05 | Notebooks 05 e 06 :white_check_mark: |
 | 18/05 | Notebook 07 |
 
 **Os notebooks serão lançados um dia antes da aula!** :rocket:
@@ -81,31 +81,28 @@ Mas aqui está alguns que mais uso:
 Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos os aspectos que o Python oferece, mesmo nos níveis básicos! Por isso, encare nosso curso como uma introdução à linguagem Python para **físicos apressados**. O que é crucial aprender imediatamente? O que é necessário para, por exemplo, resolver problemas e criar gráficos conforme exigido em relatórios de experimentos de Física? Essas perguntas guiaram a criação da estrutura do curso que se segue:
 
 - **01 - Python como uma calculadora básica** > [Notebook Aula01](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula01.ipynb)
-   - Exemplo de Python como uma calculadora básica
    - Expressões
 
 - **02 - Python como uma calculadora científica** > [Notebook Aula02](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula02.ipynb)
-   - Exemplos de Python como uma calculadora científica
    - Funções
+
 - **03 - Gráficos de Linha e Dispersão Parte I** > [Notebook Aula03](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula03.ipynb)
-   - Exemplo de criação de gráficos de linha e dispersão
    - Introdução a listas e tuplas
    - Introdução a strings
    - Introdução aos comentários
+   - Criação de gráficos de linha e dispersão
 
 - **04 - Gráficos de Linha e Dispersão Parte II** > [Notebook Aula04](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula04.ipynb)
-   - Exemplo de personalização de gráficos de linha
    - Personalizando a aparência do gráfico
    - Lidando com múltiplas figuras
    - Introdução a cálculos com arrays
    - Conceito de tipagem
 
 - **05 - Preparação Preliminar para Análise de Dados Parte I** > [Notebook Aula05](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula05.ipynb)
-   - Introdução aos nossos dados
    - Mais sobre criação de arrays
    - Mais sobre funções com arrays
-   - Introdução aos loops
    - Introdução a estrutura condicional
+   - Introdução aos loops
 
 - **06 - Preparação Preliminar para Análise de Dados Parte II** > [Notebook Aula06](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula06.ipynb)
    - Arrays bidimensionais
@@ -116,7 +113,6 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
    - Estrutura de dados: séries e dataframe
    - Extraindo informação de um DataFrame
    - Plotando com pandas
-
 
 > Após o final das aulas, será disponibilizado um forms para fornecimento gratuito de certificado! :laughing:
 
