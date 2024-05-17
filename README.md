@@ -82,38 +82,71 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
 
 - **01 - Python como uma calculadora básica** > [Notebook Aula01](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula01.ipynb)
    - Expressões
+      - Operadores
+      - Variáveis
 
 - **02 - Python como uma calculadora científica** > [Notebook Aula02](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula02.ipynb)
    - Funções
+      - Importando módulos
+      - Escrevendo e usando suas próprias funções
 
 - **03 - Gráficos de Linha e Dispersão Parte I** > [Notebook Aula03](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula03.ipynb)
    - Introdução a listas e tuplas
+      - Listas
+         - Fatia de uma lista
+         - Manipulação de listas
+      - Tuplas
    - Introdução a strings
+      - F-strings
+      - Manipulação de strings
    - Introdução aos comentários
-   - Criação de gráficos de linha e dispersão
+      - Docstrings
+   - Criação básica de gráficos de linha e dispersão
 
 - **04 - Gráficos de Linha e Dispersão Parte II** > [Notebook Aula04](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula04.ipynb)
    - Personalizando a aparência do gráfico
+      - Ajustando o tamanho do gráfico
    - Lidando com múltiplas figuras
+      - Criando gráficos separados (lado a lado)
+      - Superposição de vários gráficos e adicionando legendas
    - Introdução a cálculos com arrays
    - Conceito de tipagem
 
 - **05 - Preparação Preliminar para Análise de Dados Parte I** > [Notebook Aula05](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula05.ipynb)
+   - Uma pequena parada: `range`
    - Mais sobre criação de arrays
-   - Mais sobre funções com arrays
    - Introdução a estrutura condicional
+      - Booleanos
+      - Delcaração `if`
+      - Declaração `if-else`
+      - Declaração `if-elif`
+      - Aninhando sentenças `if-else`
    - Introdução aos loops
+      - `for`
+      - `while`
 
 - **06 - Preparação Preliminar para Análise de Dados Parte II** > [Notebook Aula06](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula06.ipynb)
    - Arrays bidimensionais
+      - Criando arrays 2D e visualizando sua dimensão
+      - Acessando e fatiando um array 2D
+      - Cálculos com arrays 2D
+      - Laços de repetição aninhados
    - Números aleatórios
 
 - **07 - Análise e Manipulação de Dados com Pandas**  > [Notebook Aula07](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula07.ipynb)
-   - Lendo dados de arquivos usando pandas
-   - Estrutura de dados: séries e dataframe
-   - Extraindo informação de um DataFrame
-   - Plotando com pandas
-
+   - Dicionários
+   - Pandas: uma ferramenta de análise e manipulação de dados
+      - Criando um DataFrame
+      - Acessando linhas, colunas e células
+      - Importando e exportando DataFrames
+      - Ordenação, operações e estatísticas
+   - Limpeza e exploração de dados
+      - Valores ausentes
+      - Valores duplicados
+      - Seleção condicional
+   - Agrupando, mesclando, unindo e concatennando DataFrames
+   - Plotando com Pandas
+   
 > Após o final das aulas, será disponibilizado um forms para fornecimento gratuito de certificado! :laughing:
 
 ## Entrega de exercícios :bookmark_tabs:
