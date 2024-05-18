@@ -4,7 +4,6 @@
 
 ## Informações importantes! :warning:
 
-* Google Meet: https://meet.google.com/qnf-djkr-foq
 * Aulas gravadas: https://www.youtube.com/playlist?list=PLaraM1ucy5CaRJis93ZYxrwVWbxhC7-gF
 
 | Data (2024) | Conteúdo |
@@ -12,10 +11,7 @@
 | 27/04 | Notebooks 01 e 02 :white_check_mark: |
 | 04/05 | Notebooks 03 e 04 :white_check_mark: |
 | 11/05 | Notebooks 05 e 06 :white_check_mark: |
-| 18/05 | Notebook 07 |
-
-**Os notebooks serão lançados um dia antes da aula!** :rocket:
-
+| 18/05 | Notebook 07 :white_check_mark:|
 
 ## O que é Python e por que aprender esta linguagem? :snake:
 
@@ -145,10 +141,9 @@ Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos o
       - Valores duplicados
       - Seleção condicional
    - Agrupando, mesclando, unindo e concatennando DataFrames
+   - (EXTRA) Pandas DateTime
    - Plotando com Pandas
    
-> Após o final das aulas, será disponibilizado um forms para fornecimento gratuito de certificado! :laughing:
-
 ## Entrega de exercícios :bookmark_tabs:
 
 Cada aula vem acompanhada de uma série de exercícios, todos baseados em problemas físicos. Se, por acaso, você precisar revisar algum conceito físico ou fórmula, sinta-se à vontade para consultar livros didáticos. No entanto, evite procurar soluções do código Python em si, pois isso pode prejudicar seu aprendizado. Afinal, como você aprenderia a programar se apenas copiasse e colasse soluções?
