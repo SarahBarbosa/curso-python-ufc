@@ -54,10 +54,6 @@ Os notebooks Jupyter (.ipynb) são uma ferramenta incrivelmente versátil para d
 
 Muitos momentos durante nossas aulas vou usar **atalhos do teclado** que economizará tempo ao programar. Não se sinta pressionado a aprender isso de início. Você pode acessar todos os atalhos selecionando "Ferramentas" → "Atalhos do teclado".
 
-<p align="center">
-  <img src="https://imgur.com/XQ9Dq8L.png" width="600">
-</p>
-
 Mas aqui está alguns que mais uso:
 
 - Compilar e criar uma célula abaixo: `Alt + Enter`
@@ -73,78 +69,24 @@ Mas aqui está alguns que mais uso:
 Como nosso curso é **introdutório** e **curto**, é impossível cobrir todos os aspectos que o Python oferece, mesmo nos níveis básicos! Por isso, encare nosso curso como uma introdução à linguagem Python para **físicos apressados**. O que é crucial aprender imediatamente? O que é necessário para, por exemplo, resolver problemas e criar gráficos conforme exigido em relatórios de experimentos de Física? Essas perguntas guiaram a criação da estrutura do curso que se segue:
 
 - **01 - Python como uma calculadora básica** > [Notebook Aula01](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula01.ipynb)
-   - Expressões
-      - Operadores
-      - Variáveis
 
 - **02 - Python como uma calculadora científica** > [Notebook Aula02](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula02.ipynb)
-   - Funções
-      - Importando módulos
-      - Escrevendo e usando suas próprias funções
 
 - **03 - Gráficos de Linha e Dispersão Parte I** > [Notebook Aula03](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula03.ipynb)
-   - Introdução a listas e tuplas
-      - Listas
-         - Fatia de uma lista
-         - Manipulação de listas
-      - Tuplas
-   - Introdução a strings
-      - F-strings
-      - Manipulação de strings
-   - Introdução aos comentários
-      - Docstrings
-   - Criação básica de gráficos de linha e dispersão
 
 - **04 - Gráficos de Linha e Dispersão Parte II** > [Notebook Aula04](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula04.ipynb)
-   - Personalizando a aparência do gráfico
-      - Ajustando o tamanho do gráfico
-   - Lidando com múltiplas figuras
-      - Criando gráficos separados (lado a lado)
-      - Superposição de vários gráficos e adicionando legendas
-   - Introdução a cálculos com arrays
-   - Conceito de tipagem
 
 - **05 - Preparação Preliminar para Análise de Dados Parte I** > [Notebook Aula05](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula05.ipynb)
-   - Uma pequena parada: `range`
-   - Mais sobre criação de arrays
-   - Introdução a estrutura condicional
-      - Booleanos
-      - Delcaração `if`
-      - Declaração `if-else`
-      - Declaração `if-elif`
-      - Aninhando sentenças `if-else`
-   - Introdução aos loops
-      - `for`
-      - `while`
 
 - **06 - Preparação Preliminar para Análise de Dados Parte II** > [Notebook Aula06](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula06.ipynb)
-   - Arrays bidimensionais
-      - Criando arrays 2D e visualizando sua dimensão
-      - Acessando e fatiando um array 2D
-      - Cálculos com arrays 2D
-      - Laços de repetição aninhados
-   - Números aleatórios
 
 - **07 - Análise e Manipulação de Dados com Pandas**  > [Notebook Aula07](https://github.com/SarahBarbosa/curso-python-ufc/blob/main/Notebooks/Aula07.ipynb)
-   - Dicionários
-   - Pandas: uma ferramenta de análise e manipulação de dados
-      - Criando um DataFrame
-      - Acessando linhas, colunas e células
-      - Importando e exportando DataFrames
-      - Ordenação, operações e estatísticas
-   - Limpeza e exploração de dados
-      - Valores ausentes
-      - Valores duplicados
-      - Seleção condicional
-   - Agrupando, mesclando, unindo e concatennando DataFrames
-   - (EXTRA) Pandas DateTime
-   - Plotando com Pandas
    
 ## Entrega de exercícios :bookmark_tabs:
 
 Cada aula vem acompanhada de uma série de exercícios, todos baseados em problemas físicos. Se, por acaso, você precisar revisar algum conceito físico ou fórmula, sinta-se à vontade para consultar livros didáticos. No entanto, evite procurar soluções do código Python em si, pois isso pode prejudicar seu aprendizado. Afinal, como você aprenderia a programar se apenas copiasse e colasse soluções?
 
-A entrega dos exercícios é **opcional** e pode ser feita por e-mail para mim: sarah@fisica.ufc.br. O gabarito completo estará disponível no final do curso, na pasta "solucionario".
+A entrega dos exercícios é **opcional** e pode ser feita por e-mail para mim: <sarah@fisica.ufc.br>. O gabarito completo estará disponível no final do curso, na pasta "solucionario".
 
 ## Vá mais longe! :books:
 
