@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://imgur.com/RJmPYJR.png">
-</p>
-
 ## Informações importantes! :warning:
 
 * Aulas gravadas: https://www.youtube.com/playlist?list=PLaraM1ucy5CaRJis93ZYxrwVWbxhC7-gF
